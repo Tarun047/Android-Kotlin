@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Gudipati Tarun</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hello World this is a sample app created by Tarun.
+        The app uses basic android views and view groups to describe how presentation techniques
+        work on android.
+        So far everything works great and I seem to love the android development experience.
+        \n\nThis text is placed here to demonstrate the scroll view layout.
+        The scroll view can contain a single view or a single view group.
+        As of now this is a simple place holder text for the text view that\'s being nested into the
+        scroll view.\n\n
+        Developing in android using kotlin is a really great experience for me.
+        Although I have developed apps using JAVA, it now seems out of date as google doesn\'t seem
+        to care about it anymore, the present android app trend is going to be based off Kotlin and
+        the best part is I seem to like it a lot.\n\n
+        Kotlin borrows a lot of good parts from PYTHON and from JAVA making it the best choice for
+        android programming.
+        No more NULL_PTR EXCEPTION in the middle of an application or any app crashes.
+        I am really trying to make this scroll view bigger and bigger to see the live scroll effect
+        in action in android.
+        However it\'s a good experience to brush up my typing skills, LOL :)
+    </string>
+    <string name="nickname_hint">What is your nick name ?</string>
+    <string name="Done">done</string>
+</resources>
